@@ -1,16 +1,9 @@
 # bloc_cart_demo
 
-A new Flutter project.
+Add to cart demo using BLOC
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="299" alt="image" src="https://github.com/nehatanwar2698/bloc_cart_demo/assets/66877730/21895cbf-96d0-4494-ba90-a51e88168997">
+<img width="298" alt="image" src="https://github.com/nehatanwar2698/bloc_cart_demo/assets/66877730/07f209bf-004a-45d8-b7da-6f0ecea415d8">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
